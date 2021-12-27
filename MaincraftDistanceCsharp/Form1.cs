@@ -41,6 +41,15 @@ namespace MaincraftDistanceCsharp
 
             int pos_index_count = PositionDataViewList.Items.Count;
 
+            if (pos_index_count < 2)
+            {
+                MessageBox.Show("要素数は2個以上である必要があります(´・ω・`)",
+                "(∩´﹏`∩)",
+                MessageBoxButtons.OK,
+                MessageBoxIcon.Error);
+                return;
+            }
+
             Debug.Print("開始");
             Debug.Print(pos_index_count.ToString());
 
@@ -146,6 +155,7 @@ namespace MaincraftDistanceCsharp
         private List<string> get_position()
         {
 
+
             string text_x_str = text_x.Text;
             string text_z_str = text_z.Text;
 
@@ -218,6 +228,24 @@ namespace MaincraftDistanceCsharp
 
         private void position_delete_Click(object sender, EventArgs e)
         {
+
+            int pos_index_count = PositionDataViewList.Items.Count;
+
+            if (pos_index_count < 1)
+            {
+                MessageBox.Show("削除できませんでした(´・ω・`)",
+                "(∩´﹏`∩)",
+                MessageBoxButtons.OK,
+                MessageBoxIcon.Error);
+                return;
+            }
+
+            if (PositionDataViewList.SelectedItems.Count == 0)
+            {
+                PositionDataViewList.Items.Remove(PositionDataViewList.Items[pos_index_count - 1]);
+                return;
+            }
+
             PositionDataViewList.Items.Remove(PositionDataViewList.SelectedItems[0]);
         }
 
