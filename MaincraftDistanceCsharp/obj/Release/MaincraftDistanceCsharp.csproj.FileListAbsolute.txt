@@ -1,0 +1,9 @@
+C:\Users\taku2\source\repos\MaincraftDistanceCsharp\MaincraftDistanceCsharp\bin\Release\MaincraftDistanceCsharp.exe.config
+C:\Users\taku2\source\repos\MaincraftDistanceCsharp\MaincraftDistanceCsharp\bin\Release\MaincraftDistanceCsharp.exe
+C:\Users\taku2\source\repos\MaincraftDistanceCsharp\MaincraftDistanceCsharp\bin\Release\MaincraftDistanceCsharp.pdb
+C:\Users\taku2\source\repos\MaincraftDistanceCsharp\MaincraftDistanceCsharp\obj\Release\MaincraftDistanceCsharp.MainForm.resources
+C:\Users\taku2\source\repos\MaincraftDistanceCsharp\MaincraftDistanceCsharp\obj\Release\MaincraftDistanceCsharp.Properties.Resources.resources
+C:\Users\taku2\source\repos\MaincraftDistanceCsharp\MaincraftDistanceCsharp\obj\Release\MaincraftDistanceCsharp.csproj.GenerateResource.cache
+C:\Users\taku2\source\repos\MaincraftDistanceCsharp\MaincraftDistanceCsharp\obj\Release\MaincraftDistanceCsharp.csproj.CoreCompileInputs.cache
+C:\Users\taku2\source\repos\MaincraftDistanceCsharp\MaincraftDistanceCsharp\obj\Release\MaincraftDistanceCsharp.exe
+C:\Users\taku2\source\repos\MaincraftDistanceCsharp\MaincraftDistanceCsharp\obj\Release\MaincraftDistanceCsharp.pdb
