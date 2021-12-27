@@ -7,3 +7,4 @@ C:\Users\taku2\source\repos\MaincraftDistanceCsharp\MaincraftDistanceCsharp\obj\
 C:\Users\taku2\source\repos\MaincraftDistanceCsharp\MaincraftDistanceCsharp\obj\Release\MaincraftDistanceCsharp.csproj.CoreCompileInputs.cache
 C:\Users\taku2\source\repos\MaincraftDistanceCsharp\MaincraftDistanceCsharp\obj\Release\MaincraftDistanceCsharp.exe
 C:\Users\taku2\source\repos\MaincraftDistanceCsharp\MaincraftDistanceCsharp\obj\Release\MaincraftDistanceCsharp.pdb
+C:\Users\taku2\source\repos\MaincraftDistanceCsharp\MaincraftDistanceCsharp\obj\Release\MaincraftDistanceCsharp.csprojAssemblyReference.cache
